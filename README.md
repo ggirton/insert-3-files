@@ -19,7 +19,7 @@ $POSTINSERT$
 based on awk rules that look like this:
 
 /\$PREINSERT\$/ {
-# This happens at rule 1
+    # This happens at rule 1
 }
 
 /\$INSERT\$/ {
