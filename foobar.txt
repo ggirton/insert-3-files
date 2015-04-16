@@ -1,0 +1,6 @@
+<code>
+Foo = bar
+
+print Foo
+
+</code>
